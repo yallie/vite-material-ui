@@ -1,4 +1,4 @@
-# React + TypeScript + MUI
+# React + TypeScript + MUI v5
 
 A Vite template for React, TypeScript and the latest major version of MUI.
 
@@ -10,6 +10,7 @@ A Vite template for React, TypeScript and the latest major version of MUI.
 - Enables the `@emotion/babel-plugin` to work with MUI (see [features](https://github.com/emotion-js/emotion/tree/main/packages/babel-plugin#features))
 - Dark mode toggle
 - Aliased imports
+- Vitest integration
 
 ## Demo
 
@@ -17,7 +18,8 @@ A Vite template for React, TypeScript and the latest major version of MUI.
 
 ## Getting Started
 
-- Clone the repo, `git clone https://github.com/christopher-caldwell/vite-material-ui.git`, or use the "Use this template" button at the top of this page.
+- Clone the repo, `git clone https://github.com/yallie/vite-vitest-ts-mui5`, or use the "Use this template" button at the top of this page.
+- Or copy via `degit https://github.com/yallie/vite-vitest-ts-mui5` and init new git repository via `git init`
 - Install dependencies using `yarn`
 - Start the server with `yarn dev`
 
